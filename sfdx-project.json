@@ -15,6 +15,7 @@
   "sourceApiVersion": "64.0",
   "packageAliases": {
     "Salesforce Trigger Framework": "0Hobm0000000WcbCAE",
-    "Salesforce Trigger Framework@0.1.0-1": "04tbm0000009Q4vAAE"
+    "Salesforce Trigger Framework@0.1.0-1": "04tbm0000009Q4vAAE",
+    "Salesforce Trigger Framework@0.1.0-2": "04tbm0000009Q6XAAU"
   }
 }
