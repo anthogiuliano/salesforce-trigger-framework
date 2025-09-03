@@ -1,17 +1,20 @@
 {
-	"packageDirectories": [
-		{
-			"path": "force-app",
-			"default": true,
-			"versionNumber": "1.2.0.NEXT"
-		},
-		{
-			"path": "sample-handler",
-			"default": false
-		}
-	],
-	"name": "Trigger Framework",
-	"namespace": "",
-	"sfdcLoginUrl": "https://login.salesforce.com",
-	"sourceApiVersion": "58.0"
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "Salesforce Trigger Framework",
+      "versionDescription": ""
+    }
+  ],
+  "name": "Salesforce Trigger Framework",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "64.0",
+  "packageAliases": {
+    "Salesforce Trigger Framework": "0Hobm0000000WcbCAE",
+    "Salesforce Trigger Framework@0.1.0-1": "04tbm0000009Q4vAAE"
+  }
 }
